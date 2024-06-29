@@ -1,0 +1,7 @@
+{application, pmap, [
+    {description, "Yet Another Parallel lists:map/2"},
+    {vsn, "1.0.0"},
+    {modules, [pmap]},
+    {applications, [kernel, stdlib]},
+    {env, []}
+]}.
